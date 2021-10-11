@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ##
 To start the application:-
 
-1) npm install
+1) npm install  (to download node pakages)
 2) ng serve
 
 ## Development server
@@ -17,7 +17,7 @@ user can sign up and login from here.
 
 On the main page user is shown various articles from hackernews which are received from hackernews api.
 User can click on article to navigate to that articles webpage.
-User is given a logout button from where he can lagout.
+User is given a logout button from where he can logout.
 
 
 
